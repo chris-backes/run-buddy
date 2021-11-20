@@ -72,7 +72,7 @@ section {
 
 /* Hero Style Start */
 .hero {
-  background-image: url('../images/hero-bg.jpg');
+  background-image: url("../images/hero-bg.jpg");
   height: 600px;
   background-size: cover;
   background-position: center;
@@ -88,7 +88,7 @@ section {
   border: solid 3px #024e76;
   position: absolute;
   bottom: 120px;
-  right: 140px
+  right: 140px;
 }
 .hero-form h3 {
   font-size: 24px;
@@ -97,7 +97,6 @@ section {
 
 .hero-form p {
   margin: 5px 0 15px 0;
-
 }
 
 .form-input {
@@ -177,7 +176,7 @@ section {
 }
 
 .steps span {
-  font-size: 38px
+  font-size: 38px;
 }
 
 .trainers {
@@ -189,7 +188,7 @@ section {
   margin: 0 auto 30px auto;
   background: #024e76;
   color: #fce138;
-  overflow: auto
+  overflow: auto;
 }
 
 .trainer img {
@@ -255,7 +254,7 @@ section {
   font-size: 32px;
 }
 
-.contact-info p, 
+.contact-info p,
 .contact-info address {
   margin: 20px 0;
   line-height: 1.5;
